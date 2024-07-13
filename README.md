@@ -14,8 +14,17 @@ This is simple blog app made by ME :) [follow me on twitter](https://x.com/abdu_
 ## For mobile:
 - React Native [expo](https://expo.dev)
 
-## Screenshot:
+## Screenshots:
+- Login page
 ![alt text](https://github.com/AbduAmigo/blog/blob/main/backend/public/01-login.JPG)
+- Dashboard
+![alt text](https://github.com/AbduAmigo/blog/blob/main/backend/public/02-dashboard.JPG)
+- Website
+![alt text](https://github.com/AbduAmigo/blog/blob/main/backend/public/03-site.JPG)
+- App Home
+![alt text](https://github.com/AbduAmigo/blog/blob/main/backend/public/04-home.JPG)
+- App news
+![alt text](https://github.com/AbduAmigo/blog/blob/main/backend/public/05-news.JPG)
 ## Supporting
 
 Please feel free to follow me on [X](https://x.com/abdu_amigo)
