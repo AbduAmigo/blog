@@ -14,6 +14,8 @@ This is simple blog app made by ME :) [follow me on twitter](https://x.com/abdu_
 ## For mobile:
 - React Native [expo](https://expo.dev)
 
+## Screenshot:
+![alt text](https://github.com/AbduAmigo/blog/blob/main/backend/public/01-login.JPG)
 ## Supporting
 
 Please feel free to follow me on [X](https://x.com/abdu_amigo)
